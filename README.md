@@ -1,4 +1,4 @@
-# yacimientoArqueol-gico
+# Yacimiento Arqueológico - Base de Datos
 Diseño e implementación de una BASE DE DATOS para la gestión de un *Yacimiento Arqueológico*.
 
 Para llevar a cabo un buen *diseño* de **base de datos**, son necesarios dos puntos muy importantes:
