@@ -7,7 +7,7 @@ Para llevar a cabo un buen *diseño* de **base de datos**, son necesarios dos pu
 
 Con esto presente, expongo a continuación el escenario ficticio que he redactado como ejemplo para el **diseño** y **desarrollo** de una base de datos.
 
-![image](https://user-images.githubusercontent.com/72009355/166812476-89b8f78e-f112-4f28-a0b7-1445f0822c00.png)
+![image](images/stonehenge.jpg)
 
 ## Enunciado del Problema
 Se desea diseñar una base de datos que administre y gestione las operaciones del equipo de arqueología involucrado en los recientes descubrimientos localizados en el sur de la península. La directiva encargada de toda la organización, ha ofrecido la siguiente información a los responsables del departamento de informática:
