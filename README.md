@@ -65,3 +65,20 @@ Este modelo es más técnico que el anterior. Todo su planteamiento y caracterí
 
 ![image](images/Modelo-Relacional.svg)
 ## Crea tu Base de Datos :hammer:
+<p>
+Con los modelos pertinentes elaborados, podemos pasar a dar
+<a title="sql" href="dB/dBCreationSampleData.sql"><img src="images/sql.png" width="200" height="200" alt="sql" align="right" /></a>
+forma a nuestra base de datos gracias al lenguaje dedicado escogido.
+
+:link: AHORA, HAZ CLIC EN LA IMAGEN DE LA DERECHA PARA ACCEDER AL SCRIPT .sql Y PODER CREAR LA BD :arrow_right:
+:arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right: :arrow_right:
+~~~
+Ej.:
+
+CREATE TABLE ÓRGANO_FINANCIERO (
+    DNI_NIF     CHAR(9), 
+    Nombre      VARCHAR2(100), 
+    Descripción VARCHAR2(100),
+...
+~~~
+</p>
