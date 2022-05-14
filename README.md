@@ -60,10 +60,14 @@ así desplazamientos excesivos e innecesarios.
 El objetivo de esta fase del diseño, consiste en representar la información obtenida del usuario final y concretada en el E.R.S. (Especificación de Requisitos Software) mediante estándares, para que el resto de la comunidad informática pueda entender y comprender el modelo realizado.
 
 ![image](images/Entidad-Relación.svg)
+
+Tienes [aquí](diagramas):open_file_folder: disponible el diagrama en formato .drawio, en caso de que uses la herramienta.
 ## Diagrama del modelo Relacional :bar_chart:
 Este modelo es más técnico que el anterior. Todo su planteamiento y características están orientados directamente al personal informático que, posteriormente lo traducirá al modelo físico entendible por el Sistema Gestor de Bases de Datos.
 
 ![image](images/Modelo-Relacional.svg)
+
+Tienes [aquí](diagramas):open_file_folder: disponible el diagrama en formato .drawio, en caso de que uses la herramienta.
 ## Crea tu Base de Datos :hammer:
 <p>
 Con los modelos pertinentes elaborados, podemos pasar a dar
