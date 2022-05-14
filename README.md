@@ -56,7 +56,11 @@ tratado y de los que será necesario recoger datos, tales cómo su **DNI**, **no
 que estos, podrán aportar sobre todas las que deseen.
 - Los arqueólogos quedan designados a una sola excavación, evitando
 así desplazamientos excesivos e innecesarios.
-## Diagrama ENTIDAD-RELACIÓN (***E/R***)
+## Diagrama del modelo ENTIDAD-RELACIÓN (***E/R***)
 El objetivo de esta fase del diseño, consiste en representar la información obtenida del usuario final y concretada en el E.R.S. (Especificación de Requisitos Software) mediante estándares, para que el resto de la comunidad informática pueda entender y comprender el modelo realizado.
 
 ![image](images/Entidad-Relación.svg)
+## Diagrama del modelo Relacional
+Este modelo es más técnico que el anterior. Todo su planteamiento y características están orientados directamente al personal informático que, posteriormente lo traducirá al modelo físico entendible por el Sistema Gestor de Bases de Datos.
+
+![image](images/Modelo-Relacional.svg)
